@@ -2,3 +2,4 @@ node_modules
 notes-api-webserver.pem
 notes-api-server.pem
 iamamri_credentials.csv
+.eslintrc.json
